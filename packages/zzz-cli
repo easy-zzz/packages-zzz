@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/easy-zzz/zzz-cli
+maintainer = Ivan Yastrebov <easy.quest@ya.ru>
+description = zzz-cli  plugin
