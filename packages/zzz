@@ -1,0 +1,4 @@
+type = plugin
+repository = YOUR-PACKAGE-URL
+maintainer = YOUR-NAME <YOUR-EMAIL>
+description = YOUR-PACKAGE-DESCRIPTION
